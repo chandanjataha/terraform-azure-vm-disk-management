@@ -103,8 +103,6 @@ df -h
 
 Reference logs:
 
-
-
 azureuser@demo-vm:~$ df -h
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root        29G  1.7G   28G   6% /
